@@ -5,6 +5,7 @@ I'm trying to add accessibility to a button that has a badge representing new no
 ![](images/texture1.png)
 
 When doing the same thing in `UIKit` with a `UIButton` and `UILabel`, the button had focus.
+
 ![](images/UIKit1.png)
 
 To try to simplify things, I changed the `ASTextNode` to a simple `ASDisplayNode` and saw the same issue:
